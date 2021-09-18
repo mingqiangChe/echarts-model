@@ -1,1 +1,9 @@
-# echarts-model
+
+# 技术点
+koa 实现本地数据获取 没有使用数据库连接
+websocket
+
+# 注意事项
+## vue.config.js 已经设置默认端口8999  
+因此里面只需要使用data里数据就直接调取的8999端口，如果没出来效果请自行寻找getdata
+
