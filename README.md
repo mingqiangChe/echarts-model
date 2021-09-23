@@ -22,5 +22,3 @@ websocket
 因此里面只需要使用data里数据就直接调取的8999端口，如果没出来效果请自行寻找getdata
 
 ## 使用eslint会报错 有的模板未使用eslint
-
-## cors_demo 文件夹下用于测试项目
